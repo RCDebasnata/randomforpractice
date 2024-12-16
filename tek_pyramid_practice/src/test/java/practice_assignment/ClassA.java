@@ -8,6 +8,7 @@ public class ClassA {
 	public void demo()
 	{
 		System.out.println("llllllll");
+		System.out.println("22222222");
 	}
 
 	
